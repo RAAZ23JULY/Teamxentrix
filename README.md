@@ -1,3 +1,7 @@
+</h2>
+<p align="center">
+  <img src="https://te.legra.ph/file/1dfd698af9b64ecf14fa8.jpg">
+</p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
