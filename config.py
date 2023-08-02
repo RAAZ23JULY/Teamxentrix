@@ -24,7 +24,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴀʟᴏɴᴇ x ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝙎𝙃𝘼𝙍𝙈𝘼 𝙓 𝘽𝙀𝘼𝙏𝙎 🍁")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "6079943111").split())
@@ -34,7 +34,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TeamAloneOp/Sharmax")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AlphaXstarz/TeamX")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
